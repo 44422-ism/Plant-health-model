@@ -3,6 +3,9 @@ Using Computer Vision & Google Teachable Machine
 
 This project is a plant-health detection system designed to analyse the condition of money plants using Computer Vision. It enables users to upload a plant image and instantly receive predictions on whether the plant is healthy, stressed, or wilted.
 
+Website link: https://myplantea.weebly.com/
+
+
 🚀 Project Overview
 
 Plants cannot communicate their discomfort, and early signs of plant stress often go unnoticed. This leads to reduced growth, low productivity, and, in severe cases, plant loss.
