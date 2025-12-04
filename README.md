@@ -58,7 +58,7 @@ Model analyzes and displays the prediction
 📦 Plant-Health-Detection-AI
 ├── website/                 # Weebly website pages and assets
 ├── model/                   # Teachable Machine model link or exported files
-├── images/                  # Demo images (optional)
+├── images/                  # Demo images 
 ├── README.md                # Project documentation
 └── ...additional files
 
